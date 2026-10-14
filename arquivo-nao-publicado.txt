@@ -1,1 +1,0 @@
-não é para conseguir ler isso no GitHub segundo o gitignore terceira tentativa
