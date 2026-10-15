@@ -1,0 +1,1 @@
+é para conseguir ler isso no GitHub o gitignore está ignorando o arquivo-nao-publicado.txt
