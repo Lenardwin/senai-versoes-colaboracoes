@@ -1,6 +1,6 @@
 # senai versoes colaboracoes
 
-readme de exemplo alpha 0.0.0.1 
+readme de exemplo alpha 0.0.0.2 
 ⠀
 ▄██████░▄█████░██████▄░▄████▄░██████
 ██░░░░░░██░░░░░██░░░██░██░░██░░░██░░
@@ -8,3 +8,5 @@ readme de exemplo alpha 0.0.0.1
 ░░░░░██░██░░░░░██░░░██░██████░░░██░░
 ██████▀░▀█████░██░░░██░██░░██░██████
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Lembrei do comando: git status
